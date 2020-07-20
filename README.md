@@ -6,6 +6,8 @@ Functional Programming, Object Oriented Programming, Embedded Firmware Engineer,
 
 Bologna, ITALY
 
-[Mail]: franco.melandri@gmail.com
-[Twitter]: https://twitter.com/FrancoMelandri
+[Mail]: franco.melandri@gmail.com	"Mail"
+[Twitter]: https://twitter.com/FrancoMelandri	"Twitter"
+
+
 
