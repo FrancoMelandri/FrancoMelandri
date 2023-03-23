@@ -3,12 +3,16 @@
 **Proudly and opinionated Software Craftsman**
 
 
-![badge](me.png)
+- Functional Programming
+- Platform builder
+- System Engineer
+- Embedded Firmware Engineer
+- NOIF movement
+- K8s and Microservices addicted
+- JavaScript C and C++ lover
 
-Functional Programming, Object Oriented Programming, Embedded Firmware Engineer, NOIF movement, K8s and Microservices addicted, JavaScript lover, C and C++ lover, RUST learner, more ...
 
 Bologna, ITALY
-
 
 Mail: franco.melandri@gmail.com
 
