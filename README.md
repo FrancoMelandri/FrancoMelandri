@@ -2,7 +2,6 @@
 
 **Proudly and opinionated Software Craftsman**
 
-
 - Functional Programming
 - Platform builder
 - System Engineer
@@ -12,8 +11,6 @@
 - JavaScript C and C++ lover
 - Creative
 
-
-Bologna, ITALY
 
 
 
