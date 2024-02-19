@@ -15,12 +15,6 @@
 
 Bologna, ITALY
 
-Mail: franco.melandri@gmail.com
-
-Twitter: https://twitter.com/FrancoMelandri
-
-LinkeIn: https://www.linkedin.com/in/franco-melandri/
-
 
 
 
