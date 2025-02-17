@@ -1,6 +1,6 @@
 # Franco Melandri
 
-**Opinionated Software Craftsman**
+**Software Craftsman**
 
 - Functional Programming
 - Platform builder
