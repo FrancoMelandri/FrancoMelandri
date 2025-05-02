@@ -3,12 +3,14 @@
 **Software Craftsman**
 
 - Functional Programming
-- Platform builder
+- Creative
+- Software/Firnware Architect
+- K8s and Microservices addicted
+- AI Agents explorer
+- Platform Engineer
 - System Engineer
 - Embedded Firmware Engineer
 - JavaScript, C and C++ lover
-- K8s and Microservices addicted
-- Creative
 
 
 
