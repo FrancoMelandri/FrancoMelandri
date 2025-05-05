@@ -9,7 +9,6 @@
 - AI Agents explorer
 - Platform Engineer
 - System Engineer
-- Embedded Firmware Engineer
 - JavaScript, C and C++ lover
 
 
