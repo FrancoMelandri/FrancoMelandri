@@ -1,6 +1,6 @@
 # Franco Melandri
 
-**Software Craftsman**
+**Opinionated Software Craftsman**
 
 - Functional Programming
 - Creative
